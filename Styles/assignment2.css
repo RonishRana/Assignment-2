@@ -36,7 +36,7 @@ body, html {
     display: inline-block;
     padding: 10px 20px;
     color: white;
-    background-color: #007bff;
+    background-color: #0000FF;
     text-align: center;
     cursor: pointer;
     font-size: 20px;
@@ -111,7 +111,7 @@ body, html {
   .Learn-text button {
       padding: 10px 20px;
       font-size: 16px;
-      background-color: #007bff;
+      background-color: #0000FF;
       color: #ffffff;
       border: none;
       border-radius: 5px;
